@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThobelaniNdloviu
+- 👋 Hi, I’m @ThobelaniNdlovu
 - 👀 I’m interested in Software Engineer/Full-stack Web developer
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any interesting or inspired project group
